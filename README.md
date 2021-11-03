@@ -20,7 +20,7 @@ sentiment: sentiment of the text (positive/negative/neutral).
 
 selected_text: phrases /words from the text that best supports the sentiment.
 
-# 5. Performance Metrics
+# 4. Performance Metrics
 The metric in this problem is the word-level Jaccard score. Jaccard Score or Jaccard Similarity is defined as size of intersection divided by size of union of two sets.
 
 
