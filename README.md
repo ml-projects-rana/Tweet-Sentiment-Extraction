@@ -9,10 +9,15 @@ It is a Kaggle competition. In this competition we have extracted support phrase
 
 # 3. Data Overview 
 It consists of two data files.train.csv with 27481 rows and test.csv with 3534 rows.
+
 List of columns in the dataset :
+
 textID: unique id for each row of data.
+
 text: contains text data of the tweet.
+
 sentiment: sentiment of the text (positive/negative/neutral).
+
 selected_text: phrases /words from the text that best supports the sentiment.
 
 # 5. Performance Metrics
