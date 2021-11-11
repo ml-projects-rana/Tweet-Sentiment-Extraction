@@ -24,4 +24,6 @@ selected_text: phrases /words from the text that best supports the sentiment.
 The metric in this problem is the word-level Jaccard score. Jaccard Score or Jaccard Similarity is defined as size of intersection divided by size of union of two sets.
 
 
+# Check the complete blog on this project
+https://dipanshurana.medium.com/tweet-sentiment-extraction-31847f23ce6a
 
